@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nhom5-06-03</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fHome">Hello blank fragment Home</string>
+    <string name="fSearch">Hello blank fragment Search</string>
+    <string name="fNoti">Hello blank fragment Notification</string>
+</resources>
